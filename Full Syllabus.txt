@@ -1,0 +1,119 @@
+*Wireless Sensor Networks and Mobile Communication*
+Unit 1 - Fundamentals of WSN
+Introduction - Introduction to Sensor Networks, Unique Constraints and Challenges, Advantages of Sensor Networks, Applications of Sensor Networks, Mobile Adhoc Networks (MANETs) and WSNs, Wireless Fieldbuses and WSNs, Enabling Technologies for WSNs
+Sensor Node Hardware and Network Architecture: Single-Node Architecture, Hardware Components & Design Constraints, Runtime Environments for Sensor Nodes, Operations Systems and Execution Environments, Introduction to TinyOS and nesC, Network Architecture, Optimization Goals, Figures of Merit
+Design Principles for WSNs, Service Interfaces of WSNs, Gateway Concepts, Channel Models, Transceiver Design
+
+Unit 2 - Advanced Issues in WSN
+Naming & Addressing: Fundamentals, Address and Name Management in WSNs, Assignment of MAC Addresses, Distributed Assignment of Locally Unique Addresses, Content-Based and Geographic Addressing
+Time Synchronization: Introduction, Protocols based on Sender/Receiver Synchronization (LTS), Protocols based on Receiver/Receiver Synchronization (RBS)
+Localization and Positioning: Properties of Localization and Position Procedures, Possible Approaches, Single-Hop Localization, Positioning in Multihop Environments
+
+Unit 3 - MAC in WSN
+Medium Access Control Protocols: Principal Options and Difficulties, Fundamentals of MAC Protocols, MAC Protocols for WSNs, Sensor-MAC, Dynamic S-MAC, Mobility-Aware MAC, D-MAC, Timeout-MAC, Case Study
+Routing Protocols: Data Dissemination and Gather, Routing Challenges and Design Issues in WSNs, Routing Strategies in WSNs
+Transport Control Protocols: Traditional Transport Control Protocols, Transport Protocol Design Issues, Examples of Existing Transport Control Protocols, Performance of Transport Control Protocols
+
+Unit 4 - Mobile Telecommunications
+Introduction, Wireless Transmission and Medium Access Control: Applications, Short History of Wireless Communication
+Wireless Transmission: Frequency for Radio Transmission, Signals, Antennas, Signal Propagation, Multiplexing, Modulation, Spread Spectrum, Cellular Systems, Telecommunication
+Satellite and Broadcast Systems: GSM Mobile Services, GSM System Architecture, GSM Radio Interface, GSM Protocols, GSM Localization and Calling, GSM Handover, GSM Security, New Data Services (DECT), DECT System Architecture, DECT Protocol Architecture, ETRA, UMTS, IMT-2000
+Satellite Systems: History, Applications, Basics (GEO, LEO, MEO), Routing, Localization, Handover Broadcast Systems, DAB, DAB Architecture, DVB
+
+
+
+*Ethical Hacking & Cyber Forensics*
+Unit 1 - Information Security Attacks, Vulnerabilities and Preventions
+Information Security: Attacks and Vulnerabilities, Access Control, CIA, Authentication, Authorization, Risk, Threat, Vulnerability, Attack, Malware, Worms, Viruses, Trojans, Spyware, Rootkits, Types of Vulnerabilities (OWASP)
+Types of Attacks and Preventions: Keystroke Logging, Denial of Services, Waterhole Attack, Brute Force, Phishing, Fake WAP, Eavesdropping, Man-in-the-Middle, Session Hijacking, Clickjacking, Cookie Theft, URL Obfuscation, Buffer Overflow, DNS Poisoning, ARP Poisoning, Identity Theft, IoT Attacks, Bots and Botnets
+Case Studies: Yahoo, Adult Friend Finder, eBay, Equifax, WannaCry, Target Stores, Uber, JP Morgan Change, Bad Rabbit, Media Markt, Kaseya, JBS, Colonial Pipeline, The University of California at San Francisco
+
+Unit 2 - Ethical Hacking
+Introduction: Ethical Hacking Terminology, Types of Hacking Technologies, Phases, Black Hat vs Gray Hat vs White Hat, Ethical Hacking, Why is Ethical Hacking Needed
+How is Ethical Hacking Different, Vulnerability Assessment and Penetration Testing, Application Security Testing, Phases, Footprinting and Social Engineering, Sniffers, System Hacking (Windows and Linux), Metasploit
+Kali Linux, Keylogging, Buffer Overflows, Privilege Escalation
+Network Hacking: ARP Poisoning, Password Cracking, WEP Vulnerabilities, MAC Spoofing, MAC Flooding, IP Spoofing, SYN Flooding, Smurf Attack
+Recent Case Studies
+
+Unit 3 - Computer, Network, Cell Phone & Internet Forensics
+Computer Forensics: Introduction to Digital Forensics and Its Phases, Preparing for Digital Investigations, Data Acquisition and Processing Crime Incident Scenes, Understanding File Systems and Recovery, Data Encryption and Compression, Automated Search Techniques, Forensics Software
+Network Forensics: Introduction to Network Forensics and Tracking Network Traffic, Reviewing Network Logs, Network Forensics Tools, Performing Live Acquisitions, Order of Volatility, Standard Procedure
+Cell Phone and Mobile Device Forensics: Overview, Acquisition Procedures for Cell Phones and Mobile Devices
+Internet Forensics: Introduction to Internet Forensics, World Wide Web Threats, Obscene and Incident Transmission, Domain Name Ownership Investigation, Reconstructing Past Internet Activities and Events
+
+Unit 4 - Email Forensics, Social Media Forensics & Investigations
+Email Forensics: Email Analysis, Email Headers and Spoofing, Laws against Email Crime
+Messenger Forensics: Yahoo Messenger
+Social Media Forensics: Social Media Investigations
+Browser Forensics: Cookie Storage and Analysis, Analyzing Cache and Temporary Internet Files, Web Browsing Activity Reconstruction Investigations
+Evidence Presentation and Legal Aspects of Digital Forensics: Authorization to Collect the Evidence, Acquisition of Evidence, Authentication of the Evidence, Analysis of the Evidence, Reporting on the Findings, Testimony, Report Writing for High-Tech Investigations
+Introduction to Legal Aspects of Digital Forensics: Laws & Regulations, Information Technology Act, Giving Evidence in Court, Case Study of Cyber Crime Cases
+
+
+*Information Retrieval*
+Unit 1 - Introduction to Information Retrieval & Boolean Retrieval
+Introduction to Information Retrieval: Introduction, History of IR, Components of IR, Issues Related to IR
+Boolean Retrieval: The Term, Vocabulary, Postings Lists
+Dictionaries and Tolerant Retrieval
+
+Unit 2 - Index Construction, Compression & Specialized Search
+Index Construction & Compression
+Personalized Search: Collaborative Filtering, Content-Based Recommendation of Documents & Products
+Handling "Invisible" Web, Snippet Generation, Summarization, Question Answering, Cross-Lingual Retrieval
+Hadoop & Map Reduce
+
+Unit 3 - Vector Space Model, Query Expansion and Feedback
+Vector Space Model: Parametric and Zone Indexes, Term Frequency and Weighting, Vector Space Model for Scoring
+Evaluation in Information Retrieval: Information Retrieval System Evaluation, Evaluation of Unranked Retrieval Sets, Evaluation of Ranked Retrieval Sets
+Assessing Relevance, Relevance Feedback, Pseudo Relevance Feedback
+
+Unit 4 - Web Search Engine Crawlers and Link Analysis
+Link Analysis, Hubs and Authorities, Page Rank Algorithm, HITS Algorithm
+Web Search Engine: Web Search Overview, Web Structure, The User, Paid Replacement, Search Engine Optimization, Spam, Web Size Measurement, Web Search Architectures
+Web Crawling, Indexes
+
+
+*Data Science*
+Unit 1 - Introduction to Data Science
+What is Data? Different Kinds of Data
+Introduction to High Level Programming Language + Integrated Development Environment (IDE)
+Exploratory Data Analysis (EDA) + Data Visualization
+Different Types of Data Sources
+Data Management: Data Collection, Data Cleaning, Data Extraction, Data Analysis & Modeling
+Data Sources: Relational Databases, Web/API Streaming
+Data Collection:  Sampling, Design (Observational vs Experimental), Impact on Visualization, Modeling and Generalizability of Results
+
+Unit 2 - Data Curation
+Data Curation: Query Languages, Operations to Specify and Transform Data, Structured/Schema-Based Systems as Users and Acquirers of Data, Semi-Structured Systems as Users and Acquirers of Data, Unstructured Systems in the Acquisition and Structuring of Data, Security and Ethical Considerations for Authenticating and Authorizing Access to Data on Remote Systems
+
+Unit 3 - Data Management and Organization
+Large-Scale Data Systems: Paradigms for Distributed Data Storage, Practical Access to Example Systems
+Introduction to NoSQL: AWS Public Data Sets (Landsat, Genomics, Multimedia)
+Layered Framework: Definition of Data Science Framework, Cross-Industry Process for Data Mining (CRISP-DM), Homogenous Ontology for Recursive Uniform Schema, The Top Layers of a Layered Framework, Layered Framework for High-Level Data Science and Engineering
+Business Layer: Business Layer, Engineering a Practical Business Layer
+Utility Layer: Basic Utility Design, Engineering a Practical Utility Layer
+Layer II Three Management Layers: Operational Management Layer, Processing Stream Definition and Management, Audit, Balance and Control Layer, Balance, Control, Yoke Solution, Cause-and-Effect, Analysis System, Functional Layer, Data Science Process
+
+Unit 4 - Introduction to Supervised Algorithms
+Introduction to Regression: Linear Regression, Polynomial Regression, Metric for Regression (Mean Square Error)
+Introduction to Classification: Decision Tree, Threshold for Classification, Metric for Classification Accuracy, F1 Score, Confusion Matrix, Type 1 and Type 2 Errors
+Bias and Variance, Overfitting and Underfitting in Supervised Algorithms
+
+
+*Human Computer Interaction*
+Unit 1 - Introduction to HCI
+Introduction: Importance of User Interface, Definition, Importance of Good Design, Benefits of Good Design, Brief History of Screen Design
+Graphical User Interface: Popularity of Graphics, Concept of Direct Manipulation, Graphical System, Characteristics
+Web User Interface: Popularity, Characteristics
+Principles of User Interface
+Design Process: Human Interaction with Computers, Importance of Human Characteristics, Human Consideration, Human Interaction Speeds, Understanding Business Junctions
+
+Unit 2 - Screen Designing
+Design Goals, Screen Planning and Purpose, Organizing Screen Elements, Ordering of Screen Data and Content, Screen Navigation and Flow, Visually Pleasing Composition, Amount of Information, Focus and Emphasis, Presentation of Information Simply and Meaningfully, Information Retrieval on Web, Statistical Graphics, Technological Considerations in Interface Design
+Windows, Navigation Scheme, Selection of Window, Selection of Device-Based and Screen-Based Controls
+
+Unit 3 - Components and Tools
+Components: Text and Messages, Icons, Multimedia, Colors, Uses Problems, Choosing Colors
+Software Tools: Specification Methods, Interface Building Tools
+Interaction Devices: Keyboard and Function Keys, Pointing Devices, Speech Recognition
+Digitization and Generation: Image and Video Displays, Drivers
