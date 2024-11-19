@@ -26,7 +26,7 @@ Satellite Systems: History, Applications, Basics (GEO, LEO, MEO), Routing, Local
 Unit 1 - Information Security Attacks, Vulnerabilities and Preventions
 Information Security: Attacks and Vulnerabilities, Access Control, CIA, Authentication, Authorization, Risk, Threat, Vulnerability, Attack, Malware, Worms, Viruses, Trojans, Spyware, Rootkits, Types of Vulnerabilities (OWASP)
 Types of Attacks and Preventions: Keystroke Logging, Denial of Services, Waterhole Attack, Brute Force, Phishing, Fake WAP, Eavesdropping, Man-in-the-Middle, Session Hijacking, Clickjacking, Cookie Theft, URL Obfuscation, Buffer Overflow, DNS Poisoning, ARP Poisoning, Identity Theft, IoT Attacks, Bots and Botnets
-Case Studies: Yahoo, Adult Friend Finder, eBay, Equifax, WannaCry, Target Stores, Uber, JP Morgan Change, Bad Rabbit, Media Markt, Kaseya, JBS, Colonial Pipeline, The University of California at San Francisco
+Case Studies: Yahoo, Adult Friend Finder, eBay, Equifax, WannaCry, Target Stores, Uber, JP Morgan Chase, Bad Rabbit, Media Markt, Kaseya, JBS, Colonial Pipeline, The University of California at San Francisco
 
 Unit 2 - Ethical Hacking
 Introduction: Ethical Hacking Terminology, Types of Hacking Technologies, Phases, Black Hat vs Gray Hat vs White Hat, Ethical Hacking, Why is Ethical Hacking Needed
