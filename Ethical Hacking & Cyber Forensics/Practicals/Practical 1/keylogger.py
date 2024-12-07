@@ -27,7 +27,7 @@ def send_mail():
 
   sender = "mithibaiculturaldevelopers@gmail.com"
   receiver = "gauravmehra158@gmail.com"
-  password = "tgwwqugfdeshxejx"
+  password = "yourpasswordhere"
 
   body = text
   message = MIMEMultipart()
