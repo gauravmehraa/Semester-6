@@ -1,4 +1,0 @@
-hello world
-line 1
-line2
-abcdef
