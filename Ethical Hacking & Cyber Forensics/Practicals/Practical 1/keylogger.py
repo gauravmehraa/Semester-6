@@ -26,7 +26,7 @@ def send_mail():
   global text
 
   sender = "mithibaiculturaldevelopers@gmail.com"
-  receiver = "gauravmehra158@gmail.com"
+  receiver = "gauravmehramcc@gmail.com"
   password = "yourpasswordhere"
 
   body = text
