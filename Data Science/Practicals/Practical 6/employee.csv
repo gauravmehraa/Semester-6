@@ -1,0 +1,31 @@
+employee_id,name,age,gender,department,salary,join_date,status,email
+E001,John Doe,28,Male,Engineering,75000,2020-05-15,Active,john.doe@example.com
+E002,Jane Smith,34,Female,Marketing,68000,2018-03-22,Active,jane.smith@example.com
+E003,None,40,Male,Sales,62000,2019-07-01,Active,robert.johnson@example.com
+E004,Emily Davis,None,Female,HR,55000,2021-01-10,Active,emily.davis@example.com
+E005,Michael Brown,45,Male,Finance,None,2015-11-30,Inactive,michael.brown@example.com
+E006,Sarah Wilson,30,Female,Engineering,70000,2017-06-18,Active,sarah.wilson@example.com
+E007,David Lee,38,Male,None,90000,2014-09-25,Active,david.lee@example.com
+E008,Laura Martinez,29,Female,Sales,61000,2020-02-14,Active,laura.martinez@example.com
+E009,James Anderson,33,Male,Marketing,67000,2016-08-05,Active,None
+E010,Jessica Taylor,32,Female,HR,58000,None,Active,jessica.taylor@example.com
+E011,Daniel Thomas,27,Male,Engineering,72000,2021-04-20,Active,daniel.thomas@example.com
+E012,Ashley Moore,31,Female,Finance,80000,2017-10-30,Inactive,ashley.moore@example.com
+E013,Matthew Jackson,36,Male,Sales,65000,2015-03-08,Active,matthew.jackson@example.com
+E014,Amanda White,None,Female,Marketing,69000,2018-07-19,Active,amanda.white@example.com
+E015,Joshua Harris,25,Male,HR,54000,2022-01-05,Active,joshua.harris@example.com
+E016,Olivia Martin,29,Female,Engineering,71000,2019-05-23,Active,olivia.martin@example.com
+E017,Andrew Thompson,40,Male,Finance,85000,2013-11-17,Inactive,andrew.thompson@example.com
+E018,Emma Garcia,23,Female,Sales,60000,2021-09-09,Active,emma.garcia@example.com
+E019,Christopher Martinez,37,Male,Marketing,70000,2016-04-27,Active,christopher.martinez@example.com
+E020,Sophia Robinson,28,Female,None,66000,2020-12-03,Active,sophia.robinson@example.com
+E021,Anthony Clark,33,Male,Engineering,78000,2018-02-16,Active,anthony.clark@example.com
+E022,Mia Rodriguez,27,Female,HR,57000,2019-08-21,Active,mia.rodriguez@example.com
+E023,William Lewis,None,Male,Finance,83000,2014-05-11,Inactive,william.lewis@example.com
+E024,Isabella Lee,24,Female,Sales,63000,2021-03-14,Active,isabella.lee@example.com
+E025,Alexander Walker,35,Male,Engineering,76000,2017-07-29,Active,alexander.walker@example.com
+E026,Charlotte Hall,30,Female,Marketing,69000,2018-10-06,Active,charlotte.hall@example.com
+E027,Joseph Allen,39,Male,Finance,84000,2015-01-19,Inactive,joseph.allen@example.com
+E028,Amelia Young,22,Female,HR,56000,2022-04-02,Active,amelia.young@example.com
+E029,Daniel King,31,Male,Sales,64000,2016-06-25,Active,daniel.king@example.com
+E030,Evelyn Wright,None,Female,Engineering,73000,2019-09-17,Active,evelyn.wright@example.com

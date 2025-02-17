@@ -1,0 +1,30 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number: 7
+Evidence Number: 1
+Unique Description: Practical 7
+Examiner: Gaurav Mehra
+Notes: 
+
+--------------------------------------------------------------
+
+Information for G:\MEGA\Semester 6\Ethical Hacking & Cyber Forensics\Practicals\Practical 7\old.dd.ad1:
+[Computed Hashes]
+ MD5 checksum:    6fb35c47473a6840ac39ca6a5eadcb2d
+ SHA1 checksum:   f73037ef20b16b44f1d6fb459176f235c5848c07
+
+Image information:
+ Acquisition started:   Wed Feb  5 07:34:24 2025
+ Acquisition finished:  Wed Feb  5 07:34:24 2025
+ Segment list:
+  G:\MEGA\Semester 6\Ethical Hacking & Cyber Forensics\Practicals\Practical 7\old.dd.ad1
+ COMPUTED HASH :  6fb35c47473a6840ac39ca6a5eadcb2d
+ COMPUTED HASH :  f73037ef20b16b44f1d6fb459176f235c5848c07
+
+Image Verification Results:
+ Verification started:  Wed Feb  5 07:34:24 2025
+ Verification finished: Wed Feb  5 07:34:24 2025
+ MD5 checksum:    6fb35c47473a6840ac39ca6a5eadcb2d : verified
+ SHA1 checksum:   f73037ef20b16b44f1d6fb459176f235c5848c07 : verified
