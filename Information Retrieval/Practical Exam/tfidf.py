@@ -1,5 +1,7 @@
-from collections import defaultdict
 import math
+import numpy as np
+from collections import defaultdict
+from sklearn.metrics.pairwise import cosine_similarity
 
 def get_tokens(tfs):
   tokens = set()
@@ -38,7 +40,17 @@ dfs = get_df(tfs, tokens)
 idf = get_idf(dfs, n)
 tfidf = [get_tfidf(tf, idf) for tf in tfs]
 
-for i, tfidf in enumerate(tfidf):
-  score = sum(tfidf.values())
-  print(f"Doc {i+1} TF-IDF: {tfidf}")
+for i, weight in enumerate(tfidf):
+  score = sum(weight.values())
+  print(f"Doc {i+1} TF-IDF: {weight}")
   print(f"Doc {i+1} Score: {score}\n")
+
+vectors = []
+for doc in tfidf:
+  vector = [doc.get(token, 0.0) for token in tokens]
+  vectors.append(vector)
+
+vectors = np.array(vectors)
+cos_sim_matrix = cosine_similarity(vectors)
+print("Cosine Similarity Matrix:")
+print(cos_sim_matrix)
